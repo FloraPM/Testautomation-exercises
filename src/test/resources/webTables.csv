@@ -1,0 +1,4 @@
+firstName, lastName, email, age, salary, department
+John, Doe, john@doe.com, 30, 110000, QA
+Jane, Doe, jane@doe.com, 31, 120000, Backend
+Jake, Doe, jake@doe.com, 32, 130000, DevOps
