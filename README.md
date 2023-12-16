@@ -1,6 +1,8 @@
 ## Project Overview
 
-The purpose of this project is to demonstrate techniques for writing automated UI tests. The tests are based on the guidelines of the Page Object Model, and efforts have been made to externalize test data wherever possible.
+The purpose of this project is to demonstrate some techniques for writing automated UI tests.
+My goal was not to write a detailed test case, just to present the code on a training site.
+The tests are based on the guidelines of the Page Object Model and made sure that where possible the test data are in an external file.
 
 ### Tools Used
 
